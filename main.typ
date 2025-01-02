@@ -410,7 +410,7 @@ Rewriting the terms in the form $1 - x$, the probability becomes:
 
 $ P_("leap"_k)(n) = 1/1461 dot (1-1/1461) dot (1-5/1461) dot (1-9/1461) dot dots\ dots dot (1-(4(n-1)-7)/1461) dot (1-(4n-7)/1461) $
 
-Let $S$ represent the sum of terms within the brackets. Similarly, $P_("leap")(n)$ can be expressed as:
+Let $S$ represent the product of terms within the brackets. Similarly, $P_("leap")(n)$ can be expressed as:
 
 $ P_("leap")(n) = n/1461 dot S $
 
